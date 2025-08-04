@@ -1,0 +1,30 @@
+python
+java
+c++
+sql
+html
+css
+javascript
+react
+node.js
+docker
+kubernetes
+aws
+azure
+tensorflow
+pytorch
+linux
+git
+flask
+django
+php
+mongodb
+firebase
+machine learning
+data science
+nlp
+excel
+power bi
+tableau
+networking
+android
